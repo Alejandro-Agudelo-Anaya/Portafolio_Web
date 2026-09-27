@@ -1,0 +1,69 @@
+ALEJANDRO AGUDELO ANAYA
+Estudiante de Ingeniería de Sistemas | Backend Developer | AI & Cloud/DevOps
+
+CONTACTO
+
+Medellín, Colombia
+alagudeloa@unal.edu.co
+318 420 9802
+linkedin.com/in/alejandro-agudelo-dev
+github.com/Alejandro-Agudelo-Anaya
+
+FORMACIÓN
+Ingeniería de Sistemas e Informática
+Universidad Nacional de Colombia
+Sede Medellín — En curso
+
+IDIOMAS
+
+Español — Nativo
+Inglés — Intermedio (B1)
+
+HABILIDADES PRINCIPALES
+Java, Spring Boot, Python, FastAPI / REST APIs, SQL, Machine Learning, Generative AI / LLM, RAG / AI Agents, Git / GitHub, AWS / Cloud, Linux / DevOps, Networking / Cisco
+
+PERFIL PROFESIONAL
+Estudiante de Ingeniería de Sistemas e Informática de la Universidad Nacional de Colombia, con pensamiento lógico orientado a la resolución de problemas y fuerte interés por el desarrollo backend, la arquitectura de software y los sistemas distribuidos. Cuento con bases en Java, Spring Boot, Python, FastAPI, SQL, Machine Learning, IA generativa y agentes de IA, además de conocimientos iniciales en AWS, Linux y redes.
+
+Me caracterizo por mi capacidad de investigación y depuración de errores, mi orientación práctica hacia proyectos reales y mi perseverancia frente a retos técnicos complejos. Disfruto trabajar con distintas tecnologías y stacks, y mantengo una curiosidad constante por seguir profesionalizándome en Backend, Inteligencia Artificial y DevOps.
+
+A nivel personal, soy una persona curiosa, autodidacta y perseverante: no me conformo con saber qué hacer, sino que busco entender por qué funciona y cómo mejorarlo, una característica especialmente valiosa en áreas como backend, DevOps e infraestructura. Fuera del ámbito técnico, cultivo intereses como el dibujo, el baile y el running, y mantengo un compromiso constante con mi desarrollo integral, incluyendo el fortalecimiento progresivo de mi inglés.
+
+ÁREAS DE ESPECIALIZACIÓN
+
+Backend: Java · Spring Boot · Python · FastAPI · SQL · REST APIs
+Inteligencia Artificial: Machine Learning · Generative AI · LLM · RAG · AI Agents
+Cloud / DevOps: AWS · Linux · Despliegue de aplicaciones · Networking
+
+PROYECTOS DESTACADOS
+
+Asistente de IA para Legislación Laboral Colombiana
+Proyecto académico/personal — Python · FastAPI · LangChain · LangGraph · Chroma · Google Gemini · Groq · Llama · RAG · AI Agents
+
+Asistente de inteligencia artificial para consultas sobre legislación laboral colombiana, con arquitectura RAG y agentes de IA expuesta mediante una API REST en FastAPI.
+
+Implementé un pipeline de agentes con LangChain y LangGraph para clasificar la intención, orquestar la búsqueda semántica y validar la respuesta final.
+Integré una base de datos vectorial (Chroma) y múltiples LLM (Google Gemini, Groq, Llama) para la recuperación y generación de respuestas fundamentadas.
+Resultado: sistema modular que integra Backend, IA Generativa, RAG y Agentes de IA en una arquitectura desacoplada.
+
+ShareIt
+Proyecto académico de Ingeniería de Software — APIs · Bases de datos · Git · Scrum
+
+Proyecto desarrollado bajo Scrum, con ciclo de desarrollo iterativo e incremental.
+
+Desarrollé componentes backend integrados con bases de datos y APIs, aplicando Git, documentación técnica y gestión de incidencias.
+Contribuí a testing y verificación de calidad de software, alineados con ISO/IEC 25010.
+
+CONOCIMIENTOS TÉCNICOS COMPLEMENTARIOS
+
+Machine Learning: KNN, K-Means, DBSCAN, Decision Trees, SVM, PCA, Scikit-learn, TensorFlow, Keras, Autoencoders y Variational Autoencoders, aplicados en proyectos con MNIST y Fashion-MNIST; optimización con SGD y Adam.
+IA Generativa y Agentes: Prompt Engineering, Tool Calling, Embeddings, Semantic Search, LangChain, LangGraph, Google Gemini, Groq, Llama, Chroma.
+Cloud / DevOps: AWS (EC2, Elastic Beanstalk), SSH, despliegue y configuración de servidores, Linux/Ubuntu, manejo de variables de entorno.
+Networking: Cisco Packet Tracer, IPv4/IPv6, Subnetting, VLSM, DHCP, VLAN, routers y switches Cisco, SSH/Telnet, líneas VTY, seguridad básica de dispositivos.
+Ingeniería de Software: Scrum, desarrollo iterativo e incremental, testing, documentación y gestión de incidencias, con fundamentos de ISO/IEC/IEEE 16326, 12207 e ISO/IEC 25010.
+Otros: JavaScript, Node.js, R, Pandas, NumPy, Matplotlib, Quarto y R Markdown.
+
+REFERENCIAS PERSONALES
+
+Rosiris María Anaya — 302 233 5442
+Luisa Fernanda Gómez — 317 603 3194
