@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" fill="none">
+  <rect width="1200" height="680" rx="22" fill="#F4E6A9"/>
+  <rect x="26" y="26" width="1148" height="628" rx="16" fill="#FBFDFE"/>
+  <path d="M42 26h1116a16 16 0 0 1 16 16v48H26V42a16 16 0 0 1 16-16Z" fill="#EAF3F5"/>
+  <circle cx="57" cy="57" r="7" fill="#F1846D"/>
+  <circle cx="81" cy="57" r="7" fill="#E7C76F"/>
+  <circle cx="105" cy="57" r="7" fill="#83B99A"/>
+  <rect x="450" y="43" width="300" height="28" rx="14" fill="#FBFDFE"/>
+  <path d="M471 57h258" stroke="#BDD0D7" stroke-width="2" stroke-linecap="round"/>
+  <rect x="26" y="90" width="210" height="564" rx="0 0 0 16" fill="#F5F9FA"/>
+  <rect x="54" y="122" width="38" height="38" rx="12" fill="#183344"/>
+  <path d="M65 141h16m-8-8v16" stroke="#D7EEE4" stroke-width="3" stroke-linecap="round"/>
+  <text x="104" y="147" fill="#183344" font-family="Arial,sans-serif" font-size="21" font-weight="700">ShareIt</text>
+  <rect x="48" y="190" width="166" height="43" rx="8" fill="#DCEEF4"/>
+  <circle cx="70" cy="211" r="7" stroke="#477F98" stroke-width="2"/>
+  <path d="m75 216 5 5" stroke="#477F98" stroke-width="2" stroke-linecap="round"/>
+  <text x="91" y="216" fill="#183344" font-family="Arial,sans-serif" font-size="14" font-weight="700">Explorar</text>
+  <circle cx="70" cy="267" r="8" stroke="#7895A1" stroke-width="2"/>
+  <path d="M58 288c1-8 6-12 12-12s11 4 12 12" stroke="#7895A1" stroke-width="2" stroke-linecap="round"/>
+  <text x="91" y="273" fill="#526B78" font-family="Arial,sans-serif" font-size="14">Mis artículos</text>
+  <path d="M62 325h16m-8-8v16" stroke="#7895A1" stroke-width="2" stroke-linecap="round"/>
+  <text x="91" y="331" fill="#526B78" font-family="Arial,sans-serif" font-size="14">Solicitudes</text>
+  <path d="M58 382h24v18H58zM63 377h14" stroke="#7895A1" stroke-width="2" stroke-linejoin="round"/>
+  <text x="91" y="395" fill="#526B78" font-family="Arial,sans-serif" font-size="14">Guardados</text>
+  <circle cx="73" cy="592" r="17" fill="#F2C7A9"/>
+  <path d="M58 592c0-9 7-17 16-17 7 0 12 4 15 10-8-1-14 2-19 9-4-3-8-3-12-2Z" fill="#526B78"/>
+  <text x="101" y="588" fill="#183344" font-family="Arial,sans-serif" font-size="13" font-weight="700">Alejandra R.</text>
+  <text x="101" y="606" fill="#7895A1" font-family="Arial,sans-serif" font-size="11">Comunidad Medellín</text>
+  <text x="278" y="147" fill="#577483" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">COMPARTE CON TU COMUNIDAD</text>
+  <text x="278" y="188" fill="#183344" font-family="Arial,sans-serif" font-size="31" font-weight="700">Lo que necesitas,</text>
+  <text x="278" y="226" fill="#6297AE" font-family="Arial,sans-serif" font-size="31" font-weight="700">más cerca de ti.</text>
+  <rect x="278" y="249" width="492" height="48" rx="8" fill="#F5F9FA" stroke="#D7E3E7"/>
+  <circle cx="303" cy="273" r="8" stroke="#7895A1" stroke-width="2"/>
+  <path d="m309 279 6 6" stroke="#7895A1" stroke-width="2" stroke-linecap="round"/>
+  <text x="329" y="278" fill="#8AA0A9" font-family="Arial,sans-serif" font-size="13">Busca objetos, herramientas...</text>
+  <rect x="784" y="249" width="134" height="48" rx="8" fill="#183344"/>
+  <path d="M808 273h16m-8-8v16" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+  <text x="837" y="278" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="13" font-weight="700">Compartir</text>
+  <text x="278" y="338" fill="#183344" font-family="Arial,sans-serif" font-size="17" font-weight="700">Para compartir cerca</text>
+  <text x="1032" y="338" fill="#477F98" font-family="Arial,sans-serif" font-size="12" font-weight="700">Ver todo  →</text>
+  <rect x="278" y="359" width="260" height="244" rx="12" fill="#FFFFFF" stroke="#D8E4E8"/>
+  <rect x="290" y="371" width="236" height="127" rx="8" fill="#E7F1E7"/>
+  <circle cx="408" cy="432" r="43" fill="#F4E6A9"/>
+  <path d="M358 455h101l-11-59h-79l-11 59Z" fill="#D1A47A"/>
+  <path d="m375 396 14-17h31l14 17m-47 0v59m34-59v59" stroke="#805B42" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="302" y="529" fill="#183344" font-family="Arial,sans-serif" font-size="15" font-weight="700">Kit de herramientas</text>
+  <text x="302" y="552" fill="#718893" font-family="Arial,sans-serif" font-size="12">Para tus proyectos en casa</text>
+  <circle cx="310" cy="578" r="10" fill="#F2C7A9"/>
+  <text x="328" y="582" fill="#526B78" font-family="Arial,sans-serif" font-size="11">Mateo · a 0.8 km</text>
+  <rect x="554" y="359" width="260" height="244" rx="12" fill="#FFFFFF" stroke="#D8E4E8"/>
+  <rect x="566" y="371" width="236" height="127" rx="8" fill="#E8F0F4"/>
+  <path d="M630 443h106m-92 0 12-37h62l13 37m-93 0 11 24h68l12-24m-83-37 16 37m53-37-16 37" stroke="#477F98" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="647" cy="469" r="11" fill="#FBFDFE" stroke="#183344" stroke-width="4"/>
+  <circle cx="720" cy="469" r="11" fill="#FBFDFE" stroke="#183344" stroke-width="4"/>
+  <text x="578" y="529" fill="#183344" font-family="Arial,sans-serif" font-size="15" font-weight="700">Bicicleta urbana</text>
+  <text x="578" y="552" fill="#718893" font-family="Arial,sans-serif" font-size="12">Ideal para moverte por la ciudad</text>
+  <circle cx="586" cy="578" r="10" fill="#D6E8C9"/>
+  <text x="604" y="582" fill="#526B78" font-family="Arial,sans-serif" font-size="11">Sara · a 1.2 km</text>
+  <rect x="830" y="359" width="298" height="244" rx="12" fill="#EAF3F5"/>
+  <text x="854" y="395" fill="#183344" font-family="Arial,sans-serif" font-size="15" font-weight="700">Una comunidad que</text>
+  <text x="854" y="418" fill="#183344" font-family="Arial,sans-serif" font-size="15" font-weight="700">comparte más.</text>
+  <path d="M854 438h248" stroke="#C8DCE3"/>
+  <circle cx="877" cy="477" r="17" fill="#F2C7A9"/>
+  <circle cx="910" cy="477" r="17" fill="#B8D9E4"/>
+  <circle cx="943" cy="477" r="17" fill="#D7EEE4"/>
+  <text x="854" y="525" fill="#477F98" font-family="Arial,sans-serif" font-size="29" font-weight="700">128</text>
+  <text x="854" y="546" fill="#526B78" font-family="Arial,sans-serif" font-size="11">personas compartiendo</text>
+  <rect x="854" y="564" width="226" height="26" rx="13" fill="#FBFDFE"/>
+  <circle cx="870" cy="577" r="5" fill="#74B797"/>
+  <text x="883" y="581" fill="#526B78" font-family="Arial,sans-serif" font-size="10">Medellín · comunidad activa</text>
+  <path d="M1015 122c23-12 48-12 70 0" stroke="#F1846D" stroke-width="3" stroke-linecap="round"/>
+  <path d="m1074 115 11 7-11 7" stroke="#F1846D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
