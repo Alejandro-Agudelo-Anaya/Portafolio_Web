@@ -4,6 +4,13 @@ const navigationLinks = [...document.querySelectorAll('.site-nav a[href^="#"]')]
 const sections = [...document.querySelectorAll("main section[id], footer[id]")];
 const revealItems = document.querySelectorAll(".reveal");
 
+const revealDelays = new Map();
+revealItems.forEach((item) => {
+  const siblingIndex = revealDelays.get(item.parentElement) ?? 0;
+  item.style.setProperty("--reveal-delay", `${Math.min(siblingIndex * 90, 360)}ms`);
+  revealDelays.set(item.parentElement, siblingIndex + 1);
+});
+
 menuButton.addEventListener("click", () => {
   const isOpen = menuButton.getAttribute("aria-expanded") === "true";
   menuButton.setAttribute("aria-expanded", String(!isOpen));
