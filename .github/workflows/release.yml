@@ -1,0 +1,31 @@
+name: Pruebas Release
+
+on:
+  push:
+    branches:
+      - 'release/**'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar código
+        uses: actions/checkout@v4
+
+      - name: Verificar archivos
+        run: |
+          test -f index.html
+          echo "index.html existe"
+
+      - name: Verificar HTML
+        run: |
+          grep -q "<html" index.html
+          grep -q "<head>" index.html
+          grep -q "<title>" index.html
+          grep -q "<body>" index.html
+          echo "Estructura HTML correcta"
+
+      - name: Prueba final
+        run: |
+          echo "Todas las pruebas de release fueron exitosas"
